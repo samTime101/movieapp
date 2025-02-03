@@ -7,7 +7,7 @@ AUTHOR: SAMIP REGMI
 JAN 30
 ```
 ### Preview
-[http://samipregmi.ct.ws/movieapp/movie.html](http://samipregmi.ct.ws/movieapp/movie.html)
+[http://samipregmi.ct.ws/movieapp](http://samipregmi.ct.ws/movieapp)
 ```sql
 $createTable = "CREATE TABLE IF NOT EXISTS movies (
     search_term VARCHAR(255) NOT NULL,
